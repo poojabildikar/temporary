@@ -12,12 +12,12 @@ id,type,name,summary,average_starting_salary,mandatory_degree_group,duration,gro
 11,MinimumPercentage,,,,,,,,55,,,
 12,EntranceExam,JEE Main,,,,,,,,Bachelors,Joint Entrance Examination Main (JEE Main),
 13,EntranceExam,UPSEE,,,,,,,,Bachelors,Uttar Pradesh State Entrance Examination (UPSEE),
-14,JobProfile , Project Planner ,,,,,,,,,,
-15,JobProfile , Regional Planner ,,,,,,,,,,
-16,JobProfile , Design Architect ,,,,,,,,,,
-17,JobProfile , Urban Planner ,,,,,,,,,,"20,000/- to 40,000/- at Andhra Infra Pvt. Ltd"
-18,JobProfile , Technical Project Manager ,,,,,,,,,,"29,000/- at QUIKRECRUIT"
-19,JobProfile , Interior Designer/Architect ,,,,,,,,,,"20,000/- to 40,000/- at Zeppelin Design & Environments LLP"
+14,JobProfile, Project Planner ,,,,,,,,,,
+15,JobProfile, Regional Planner ,,,,,,,,,,
+16,JobProfile, Design Architect ,,,,,,,,,,
+17,JobProfile, Urban Planner ,,,,,,,,,,"20,000/- to 40,000/- at Andhra Infra Pvt. Ltd"
+18,JobProfile, Technical Project Manager ,,,,,,,,,,"29,000/- at QUIKRECRUIT"
+19,JobProfile, Interior Designer/Architect ,,,,,,,,,,"20,000/- to 40,000/- at Zeppelin Design & Environments LLP"
 20,Certification,"Postgraduate Diploma in Urban Planning, School of Planning and Architecture (SPA), New Delhi",,,,,,,,,,
 21,Certification,"Certificate in Urban and Regional Planning, Indian Institute of Technology (IIT), Kharagpur",,,,,,,,,,
 22,Certification,"Advanced Diploma in Urban Planning and Development, Centre for Environmental Planning and Technology (CEPT) University, Ahmedabad",,,,,,,,,,
