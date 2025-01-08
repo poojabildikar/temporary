@@ -1,4 +1,4 @@
-source_id,source_type,target_id,target_type,relationship_type
+source_id,source_type,relationship_type,target_id,target_type
 1,Profession,has_job_offerings_from,36,Organization
 1,Profession,has_job_offerings_from,37,Organization
 1,Profession,has_job_offerings_from,38,Organization
