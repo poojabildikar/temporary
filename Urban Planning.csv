@@ -1,4 +1,4 @@
-id,type,name,summary,average_starting_salary,mandatory_degree_group,duration,group,education_board,value,for-degree,info,salary
+id,type,name,summary,average_starting_salary,mandatory_degree_group,duration,group,education_board,value,for_degree,info,salary
 1,Profession,Urban Planning,"Urban Planning encompasses the strategic design, regulation, and utilisation of urban spaces, integrating considerations of physical form, economic activity, and societal implications. Essential skills include Urban Design, Sustainable Design, Architectural Design, Comprehensive Planning, and proficiency in tools like SketchUp and Design Research to optimise land use and foster sustainable development.",4 LPA,,,,,,,,
 2, Degree ,Bachelor of Planning (B. Plan.) ,,,,,Bachelors,,,,,
 3,Degree,M.Plan Urban and Regional,,,,,Masters,,,,,
@@ -10,8 +10,8 @@ id,type,name,summary,average_starting_salary,mandatory_degree_group,duration,gro
 9,Subject,Mathematics,,,,,,,,,,
 10,MinimumPercentage,,,,,,,,50,,,
 11,MinimumPercentage,,,,,,,,55,,,
-12,EntranceExam,JEE Main - Joint Entrance Examination Main (JEE Main),,,,,,,,Bachelors,,
-13,EntranceExam,UPSEE - Uttar Pradesh State Entrance Examination (UPSEE),,,,,,,,Bachelors,,
+12,EntranceExam,JEE Main,,,,,,,,Bachelors,Joint Entrance Examination Main (JEE Main),
+13,EntranceExam,UPSEE,,,,,,,,Bachelors,Uttar Pradesh State Entrance Examination (UPSEE),
 14, Job Profile , Project Planner ,,,,,,,,,,
 15, Job Profile , Regional Planner ,,,,,,,,,,
 16, Job Profile , Design Architect ,,,,,,,,,,
