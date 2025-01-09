@@ -1,0 +1,41 @@
+source_id,source_type,relationship_type,target_id,target_type
+1,Profession,recognizes,6,Certification
+1,Profession,recognizes,7,Certification
+1,Profession,recognizes,8,Certification
+1,Profession,recognizes,9,Certification
+1,Profession,recognizes,10,Certification
+1,Profession,recognizes,11,Certification
+1,Profession,recognizes,12,Certification
+1,Profession,recognizes,13,Certification
+1,Profession,recognizes,14,Certification
+1,Profession,recognizes,15,Certification
+1,College,offers-course-in,20,Profession
+1,College,offers-course-in,21,Profession
+1,College,offers-course-in,22,Profession
+1,College,offers-course-in,23,Profession
+1,College,offers-course-in,24,Profession
+1,College,offers-course-in,25,Profession
+1,College,offers-course-in,26,Profession
+1,College,offers-course-in,27,Profession
+1,College,offers-course-in,28,Profession
+1,College,offers-course-in,29,Profession
+1,Profession,has-job-offerings-from,39,Organization
+1,Profession,has-job-offerings-from,40,Organization
+1,Profession,has-job-offerings-from,41,Organization
+1,Job Profile,belongs-to,30,Profession
+1,Job Profile,belongs-to,31,Profession
+1,Job Profile,belongs-to,32,Profession
+1,Job Profile,belongs-to,33,Profession
+1,Job Profile,belongs-to,34,Profession
+1,Job Profile,belongs-to,35,Profession
+1,Job Profile,belongs-to,36,Profession
+1,Job Profile,belongs-to,37,Profession
+1,Job Profile,belongs-to,38,Profession
+16,Entrance exam,to-be-cleared-for,3,Degree
+17,Entrance exam,to-be-cleared-for,3,Degree
+18,Entrance exam,to-be-cleared-for,5,Degree
+19,Entrance exam,to-be-cleared-for,4,Degree
+1,Degree,is-a-degree-in,2,Profession
+1,Degree,is-a-degree-in,3,Profession
+1,Degree,is-a-degree-in,4,Profession
+1,Degree,is-a-degree-in,5,Profession
